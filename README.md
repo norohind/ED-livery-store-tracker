@@ -1,3 +1,5 @@
+# It is old version
+It is old version and it will no longer be used, instead of it, exists new version that will be supported: https://github.com/norohind/ED-livery-tracker-advanced
 # Common information
 This is python script that track ED livery store for new items, price changes, deleting items.
 To use it you have to perform a few action:
